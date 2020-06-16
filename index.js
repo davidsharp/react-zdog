@@ -161,4 +161,5 @@ export {
   Cylinder,
   Cone,
   Box,
+  createZdog,
 }
